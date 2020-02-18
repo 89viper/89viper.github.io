@@ -4,7 +4,7 @@ categories: programming
 tags: MySQL, DB
 ---
 
-MySQL 정리
+MySQL 정리\
 강의 출처:https://opentutorials.org/course/3161
 
 <!-- more -->
