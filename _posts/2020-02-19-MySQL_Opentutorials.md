@@ -5,7 +5,8 @@ tags: MySQL, DB
 ---
 
 MySQL 정리<br/>
-강의 출처: [https://opentutorials.org/course/3161][https://opentutorials.org/course/3161]
+강의 출처: [https://opentutorials.org/course/3161][courselink]
+[courselink]: https://opentutorials.org/course/3161 "Go course"
 
 <!-- more -->
 
