@@ -735,8 +735,7 @@ js: assets/js
 images: assets/images
 
 # Disqus
-disqus_url: 89viper.disqus.com
-disqus_id: 89viper
+disqus_shortname: 89viper
 
 # Theme version
 version: 5.1.1
