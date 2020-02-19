@@ -380,8 +380,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: 89viper
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
@@ -733,9 +733,6 @@ vendors:
 css: assets/css
 js: assets/js
 images: assets/images
-
-# Disqus
-disqus_shortname: 89viper
 
 # Theme version
 version: 5.1.1
