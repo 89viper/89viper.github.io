@@ -8,7 +8,7 @@ tags: Linux
 
 <!-- more -->
 
-# Linux login problem
+# Ubuntu login problem
 
 ## 문제
 
