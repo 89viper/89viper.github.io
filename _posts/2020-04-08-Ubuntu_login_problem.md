@@ -26,7 +26,7 @@ NIVIDIA 그래픽 카드 드라이버 문제
 ```
 $ ubuntu-drivers devices
 ```
-4. 드라이버 설치 후 재부팅
+4. 드라이버 설치 후 부팅
 ```
 $ sudo add-apt-repository ppa:graphics-drivers/ppa
 $ sudo apt update
