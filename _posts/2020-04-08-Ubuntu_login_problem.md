@@ -1,7 +1,7 @@
 ---
 title: Ubuntu18.04.04 login problem
 categories: programming
-tags: Linux, Ubuntu
+tags: Linux, Ubuntu, Problem
 ---
 
 포맷 직후 우분투 로그인 시, 멈춤 및 꺼짐 현상 해결 방법<br/>(NVIDIA 그래픽 카드 드라이버 문제)
