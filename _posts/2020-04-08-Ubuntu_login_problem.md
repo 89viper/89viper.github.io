@@ -29,9 +29,13 @@ $ ubuntu-drivers devices
 4. 드라이버 설치 후 리부팅
 ```
 $ sudo add-apt-repository ppa:graphics-drivers/ppa
+```
+```
 $ sudo apt update
 ```
 ```
 $ sudo apt-get install nvidia-driver-435
+```
+```
 $ sudo reboot
 ```
