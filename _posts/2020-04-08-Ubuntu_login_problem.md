@@ -4,7 +4,7 @@ categories: programming
 tags: Linux, Ubuntu, Problem
 ---
 
-포맷 직후 우분투 로그인 시, 멈춤 및 꺼짐 현상 해결 방법<br/>(NVIDIA 그래픽 카드 드라이버 문제)
+포맷 직후 우분투의 멈춤 및 꺼짐 현상 해결 방법<br/>(NVIDIA 그래픽 카드 드라이버 문제)
 
 <!-- more -->
 
@@ -12,7 +12,7 @@ tags: Linux, Ubuntu, Problem
 
 ## 문제
 
-포맷 직후 우분투(Ubuntu-18.04.04-LTS) 로그인 시, 멈춤 및 꺼짐 현상<br/>
+포맷 직후 우분투(Ubuntu-18.04.04-LTS)의 멈춤 및 꺼짐 현상<br/>
 
 ## 원인
 
