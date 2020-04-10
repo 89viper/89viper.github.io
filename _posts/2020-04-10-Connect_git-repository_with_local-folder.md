@@ -11,16 +11,16 @@ tags: Github, Git
 ## 방법
 1. git 명령어를 쓸 수 있는 커맨드창(ex. Git bash, 환경변수 등록된 상태에서 윈도우 커맨드 창 등등) 열기
 2. Github repository를 연결할 폴더로 이동(cd 명령어 사용)
-3. 해당 폴더에서 Git 초기화
+3. 해당 폴더에서 Git 초기화<br/>
 $ git init
-4. 폴더와 repository 연결
+4. 폴더와 repository 연결<br/>
 $ git remote add origin https://주소<br/>
-- repository 주소는 녹색 버튼(Clone or download) 누르면 확인 가능
+- repository 주소는 녹색 버튼(Clone or download) 누르면 확인 가능<br/>
 ![checkrepoaddress](../image/checkgitaddres.png)
-5. 연결되었는지 확인(1)
+5. 연결되었는지 확인(1)<br/>
 $ git pull origin master<br/>
 repository에서 local folder로 파일들을 가져오는 명령어
-6. 연결되었는지 확인(2)
+6. 연결되었는지 확인(2)<br/>
 $ git commit test.md<br/>
 $ git push origin master<br/>
 local folder의 변경사항을 repository에 적용시킴
