@@ -1,5 +1,5 @@
 ---
-title: Ubuntu18.04.04 login problem
+title: Ubuntu18.04.04 freezing problem
 categories: programming
 tags: Linux, Ubuntu, Problem
 ---
@@ -8,7 +8,7 @@ tags: Linux, Ubuntu, Problem
 
 <!-- more -->
 
-# Ubuntu login problem
+# Ubuntu freezing problem
 
 ## 문제
 
