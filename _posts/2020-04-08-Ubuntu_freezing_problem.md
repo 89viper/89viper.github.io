@@ -24,7 +24,7 @@ NIVIDIA 그래픽 카드 드라이버 문제
 2. Grub에서 enter / Network에서 enter / Root에서 enter
 3. 추천 드라이버 확인<br/>
 $ ubuntu-drivers devices
-4. 드라이버 설치 후 리부팅
+4. 드라이버 설치 후 리부팅<
 $ sudo add-apt-repository ppa:graphics-drivers/ppa<br/>
 $ sudo apt update<br/>
 $ sudo apt-get install nvidia-driver-435<br/>
