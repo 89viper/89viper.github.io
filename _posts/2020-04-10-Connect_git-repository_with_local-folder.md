@@ -4,10 +4,12 @@ categories: programming
 tags: Github, Git
 ---
 
-* 요약<br/>
+## 요약<br/>
 $ git remote add origin [git repository 주소]
 
 <!-- more -->
+
+# test
 
 ## 방법
 1. git 명령어를 쓸 수 있는 커맨드창(ex. Git bash, 환경변수 등록된 상태에서 윈도우 커맨드 창 등등) 열기
