@@ -14,7 +14,14 @@ tags: Github, Git
 3. 해당 폴더에서 Git 초기화
 $ git init
 4. 폴더와 repository 연결
-$ git remote add origin https://주소
+$ git remote add origin https://주소<br/>
+- repository 주소는 녹색 버튼(Clone or download) 누르면 확인 가능
 ![checkrepoaddress](../image/checkgitaddres.png)
-
+5. 연결되었는지 확인(1)
+$ git pull origin master<br/>
+repository에서 local folder로 파일들을 가져오는 명령어
+6. 연결되었는지 확인(2)
+$ git commit test.md<br/>
+$ git push origin master<br/>
+local folder의 변경사항을 repository에 적용시킴
 
