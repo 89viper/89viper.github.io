@@ -1,5 +1,5 @@
 ---
-title: Ubuntu18.04.04 freezing problem
+title: Ubuntu18.04.04LTS freezing problem
 categories: programming
 tags: Linux, Ubuntu, Problem
 ---
@@ -12,7 +12,7 @@ tags: Linux, Ubuntu, Problem
 
 ## 문제
 
-포맷 직후 우분투(Ubuntu-18.04.04-LTS)의 멈춤 및 꺼짐 현상<br/>
+포맷 직후 우분투(Ubuntu-18.04.04LTS)의 멈춤 및 꺼짐 현상<br/>
 
 ## 원인
 
