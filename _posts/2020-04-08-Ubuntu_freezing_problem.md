@@ -21,7 +21,7 @@ NIVIDIA 그래픽 카드 드라이버 문제
 ## 해결 방법
 
 1. 우분투 부팅시 shift, esc를 눌러서 recovery mode로 부팅
-2. Grub에서 enter / Network에서 enter / Root에서 enter
+2. Grub에서 enter / Network에서 enter / Root에서 enter (Y로 활성화해야하면 Y입력)
 3. 추천 드라이버 확인<br/>
 $ ubuntu-drivers devices
 4. 드라이버 설치 후 리부팅<br/>
