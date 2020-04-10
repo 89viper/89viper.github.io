@@ -4,7 +4,7 @@ categories: programming
 tags: Github, Git
 ---
 
-## 요약
+* 요약<br/>
 $ git remote add origin [git repository 주소]
 
 <!-- more -->
