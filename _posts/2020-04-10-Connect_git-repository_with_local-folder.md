@@ -1,4 +1,4 @@
----
+﻿---
 title: Github repository와 컴퓨터 local folder 연결하기
 categories: programming
 tags: Github, Git
@@ -24,7 +24,8 @@ $ git remote add origin https://주소<br/>
 $ git pull origin master<br/>
 repository에서 local folder로 파일들을 가져오는 명령어
 6. 연결되었는지 확인(2)<br/>
-$ git commit test.md<br/>
+$ git add test.md<br/>
+$ git commit -am "new" <br/>
 $ git push origin master<br/>
 local folder의 변경사항을 repository에 적용시킴
 
