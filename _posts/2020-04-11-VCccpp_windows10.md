@@ -17,7 +17,7 @@ Visual Studio를 설치한다.
 ![checkccppoption](http://drive.google.com/uc?export=view&id=1K7EZqDEfVXK_6clL2bbbEdCl13GWZ_cd)
 3. 빈 프로젝트를 생성
 ![checkccppoption](http://drive.google.com/uc?export=view&id=1vapfD05I5m1ii9zvthGRTJg3e8Ga5_P-)
-4. 코드 테스트
+4. 코드 테스트<br/>
 ```
 #include<stdio.h>
 
