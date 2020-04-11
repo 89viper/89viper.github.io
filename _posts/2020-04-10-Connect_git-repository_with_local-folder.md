@@ -19,7 +19,7 @@ $ git init
 4. 폴더와 repository 연결<br/>
 $ git remote add origin https://주소<br/>
 - repository 주소는 녹색 버튼(Clone or download) 누르면 확인 가능<br/>
-![checkrepoaddress](https://drive.google.com/open?id=1u0BziUOtkZfXzkQlGJ_wheZzaHfqYwug)
+![checkrepoaddress](http://drive.google.com/uc?export=view&id=1u0BziUOtkZfXzkQlGJ_wheZzaHfqYwug)
 5. 연결되었는지 확인(1)<br/>
 $ git pull origin master<br/>
 repository에서 local folder로 파일들을 가져오는 명령어
