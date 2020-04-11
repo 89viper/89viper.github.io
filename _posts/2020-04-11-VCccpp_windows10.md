@@ -18,12 +18,12 @@ Visual Studio를 설치한다.
 3. 빈 프로젝트를 생성
 ![checkccppoption](http://drive.google.com/uc?export=view&id=1vapfD05I5m1ii9zvthGRTJg3e8Ga5_P-)
 4. 코드 테스트<br/>
-```
+~~~
 #include<stdio.h>
 
 void main() {
 	printf("hello!");
 }
-```
+~~~
 * 결과<br/>
 ![testresult](http://drive.google.com/uc?export=view&id=1TX0fwwlvxdrYdLSFPrV5tHvls8ivIOGX)
